@@ -4,14 +4,14 @@ This coding challenge is provided by geektrust.in, [click here to view the probl
 
 ## Deployment
 
-View deployed app here [uday-goel-admin-ui](https://uday-goel-admin-ui.netlify.app)
+View deployed app here [admin-ui-uday-goel](https://admin-ui-uday-goel.netlify.app)
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/UdayGoel2000/Uday-Admin-UI.git
+  git clone https://github.com/UdayGoel2000/Uday-Goel-Admin-UI.git
 ```
 
 Go to the project directory
